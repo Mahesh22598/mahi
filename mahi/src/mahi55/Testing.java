@@ -41,6 +41,7 @@ public class Testing {
 		List <WebElement> xz= xx.getOptions();
 		int mm=xz.size();
 		System.out.println(mm);
+		driver.quit();
 		
 		
 		
